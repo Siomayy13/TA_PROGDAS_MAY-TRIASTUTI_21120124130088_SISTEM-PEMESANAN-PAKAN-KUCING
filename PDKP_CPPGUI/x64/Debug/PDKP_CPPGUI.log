@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GUI_ProgDas.vcxproj, PDKP_CPPGUI.vcxproj, YTTA.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+  MyForm1.cpp
+  MyForm2.cpp
+C:\Users\ASUS TUF GAMING A15\Documents\PERCOBAAN GUI NIH BANG\FIXX YANG TERAKHIR NIH BANG\PDKP_CPPGUI\MyForm.cpp(6,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PDKP_CPPGUI.vcxproj -> C:\Users\ASUS TUF GAMING A15\Documents\PERCOBAAN GUI NIH BANG\FIXX YANG TERAKHIR NIH BANG\x64\Debug\TA_PROGDAS_MAY TRIASTUTI_21120124130088_SISTEM PEMESANAN PAKAN KUCING.exe
